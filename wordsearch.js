@@ -1,3 +1,4 @@
+//Pair programming assignment with @nicoayamen
 const transpose = function(matrix) {
   let newResult = [];
   for (let y = 0; y < matrix[0].length; y++) {
